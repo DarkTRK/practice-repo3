@@ -1,1 +1,2 @@
-# practice-repo3
+Attempt 3 
+TTHIS TEXT WAS ADDED WITH VISUAL STUDIO CODE
